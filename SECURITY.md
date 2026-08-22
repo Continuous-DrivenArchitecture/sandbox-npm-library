@@ -15,12 +15,6 @@ repository: open the repository's **Security** tab → **Advisories** →
 **Report a vulnerability**. This is a GitHub platform feature that does not
 require a separate contact address.
 
-> This template does not define a maintainer contact address. A repository
-> derived from this template MUST either enable and rely on GitHub Private
-> Vulnerability Reporting (recommended default), or replace this section
-> with a real, monitored reporting channel before publishing the package —
-> do not leave a placeholder email address in place of either.
-
 When filing a report, include:
 
 - the affected package version and how it was obtained;
