@@ -1,11 +1,11 @@
 {
-  "name": "@cda/template-npm-library",
+  "name": "@cda/sandbox-npm-library",
   "version": "0.0.0-development",
   "private": true,
-  "description": "PLACEHOLDER — CDA npm Library Profile v1 reference template. Rename before deriving a real repository.",
+  "description": "Sandbox library used to validate the CDA repository factory (template-npm-library + repository-provisioner) end to end. Not intended for real-world use.",
   "keywords": [
     "cda",
-    "template"
+    "sandbox"
   ],
   "license": "MIT",
   "type": "module",
@@ -52,10 +52,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Continuous-DrivenArchitecture/REPLACE_ME.git"
+    "url": "git+https://github.com/Continuous-DrivenArchitecture/sandbox-npm-library.git"
   },
-  "homepage": "https://github.com/Continuous-DrivenArchitecture/REPLACE_ME#readme",
+  "homepage": "https://github.com/Continuous-DrivenArchitecture/sandbox-npm-library#readme",
   "bugs": {
-    "url": "https://github.com/Continuous-DrivenArchitecture/REPLACE_ME/issues"
+    "url": "https://github.com/Continuous-DrivenArchitecture/sandbox-npm-library/issues"
   }
 }
